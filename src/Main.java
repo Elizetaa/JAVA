@@ -12,7 +12,7 @@ public class Main {
         // System.out.println("Saldo da conta " + c1.numero + "\n: " +c1.saldo);
 
         c1.extrato();
-
+        String c2 = "xablau";
 
     }
 }
